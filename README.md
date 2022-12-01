@@ -2,7 +2,7 @@
 
 
 
-- Cebrify is a small npm package for calculating some features.
+- temp-convertify-2 is a small npm package for calculating some features.
 
 - Install temp-convertify2 with the following command
 
